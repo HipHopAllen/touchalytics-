@@ -1,0 +1,4 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="com.soasta.touchtest.url">http://localhost:8080/concerto/touchtest</string>
+</resources>
